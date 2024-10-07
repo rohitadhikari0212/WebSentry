@@ -110,12 +110,3 @@ Feel free to contribute by forking this repository and submitting a pull request
 ## **License**
 
 This project is licensed under the MIT License.
-
----
-
-
----
-
-### **Notes**:
-- If you are using `WhatWeb` as a dependency, make sure it is installed on your system (e.g., via `apt` on Linux systems) since it’s an external tool.
-- Adjust the URL of the repository in the `git clone` command to reflect your GitHub username and repository name.
